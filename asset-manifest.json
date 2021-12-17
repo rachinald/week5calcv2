@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/week5calcv2/static/css/main.9ef9d421.css",
+    "main.js": "/week5calcv2/static/js/main.20ba457b.js",
+    "index.html": "/week5calcv2/index.html",
+    "main.9ef9d421.css.map": "/week5calcv2/static/css/main.9ef9d421.css.map",
+    "main.20ba457b.js.map": "/week5calcv2/static/js/main.20ba457b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ef9d421.css",
+    "static/js/main.20ba457b.js"
+  ]
+}
